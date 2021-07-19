@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lidusol
-- 👀 I’m interested in well and mobile app development 
+- 👀 I’m interested in web and mobile app development 
 - 🌱 I’m currently learning nestjs, neo4j and graphsql 
 - 💞️ I’m looking to collaborate on web and mobile applications 
 - 📫 How to reach me, via email lydiasolomon97@gmail.com or LinkedIn at Lydia Solomon 
