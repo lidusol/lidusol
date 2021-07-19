@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lidusol
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning ERP with, and SEO and digital marketing
-- 💞️ I’m looking to collaborate on front-end applications and mobile 
+- 🌱 I’m currently learning ERP with odoo, SEO and digital marketing
+- 💞️ I’m looking to collaborate on front-end applications and mobile app development
 - 📫 How to reach me, via telegram @lydia_solomon
 
 <!---
