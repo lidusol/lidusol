@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lidusol
+- 👋 Hi, I’m Lydia Solomon
 - 👀 I’m interested in web and mobile app development 
 - 🌱 I’m currently learning nestjs, neo4j and graphsql 
 - 💞️ I’m looking to collaborate on web and mobile applications 
