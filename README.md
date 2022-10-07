@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lydia Solomon
-- 👀 I’m interested in web and mobile app development 
-- 🌱 I’m currently learning nestjs, neo4j and graphsql 
-- 💞️ I’m looking to collaborate on web and mobile applications 
+- 👀 I’m interested in web development and project management. 
+- 🌱 I’m currently learning Nextjs.
+- 💞️ I’m looking to collaborate on web application implementation. 
 - 📫 How to reach me, via email lydiasolomon97@gmail.com or LinkedIn at https://www.linkedin.com/in/lydia-solomon/
 
 <!---
